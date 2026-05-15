@@ -1,0 +1,13 @@
+# requirements.txt
+# List any EXTRA apt packages your code needs beyond the Dockerfile defaults.
+# Leave blank (or with comments only) if nothing extra is required.
+#
+# Example:
+# libboost-all-dev
+# libjpeg-dev
+
+# The following packages are already provided by the Dockerfile — do not repeat them:
+# build-essential cmake gdb
+# libsfml-dev libsdl2-dev libglfw3-dev libncurses-dev
+
+libx11-dev
